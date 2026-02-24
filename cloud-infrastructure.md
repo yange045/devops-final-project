@@ -12,3 +12,5 @@
 - Click "Create Bucket" and give it a name
 - Set permissions and access settings
 - Upload files to the bucket
+
+s3://eliys-final-project/Screenshot (133).png
