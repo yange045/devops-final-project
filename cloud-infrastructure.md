@@ -13,4 +13,4 @@
 - Set permissions and access settings
 - Upload files to the bucket
 
-s3://eliys-final-project/Screenshot (133).png
+![Screenshot](https://eliys-final-project.s3.us-east-1.amazonaws.com/Screenshot+(133).png)

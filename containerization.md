@@ -16,4 +16,4 @@
 - `docker compose up -d` - This starts all services within a docker-compose.yml.
 - `docker compose down` - This will stop and remove all services.
 
-s3://eliys-final-project/Screenshot (132).png
+![Screenshot](https://eliys-final-project.s3.us-east-1.amazonaws.com/Screenshot+(132).png)
