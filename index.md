@@ -1,7 +1,7 @@
 # DevOps Reference Guide
 
 ## Table of Contents
-- [Version Control](version_control.md)
-- [Linux Fundamentals](linux_fundamentals.md)
-- [Cloud Infrastructure](cloud_infrastructure.md)
+- [Version Control](version-control.md)
+- [Linux Fundamentals](linux-fundamentals.md)
+- [Cloud Infrastructure](cloud-infrastructure.md)
 - [Containerization](containerization.md)
