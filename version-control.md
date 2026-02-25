@@ -14,4 +14,7 @@
 - `git commit -m "input a description of the changes"` - This will commit your changes and the description helps you to know what has been done.
 - `git push` - This will push your changes to your repository
 
+## Summary
+- Version control is essential for tracking changes in your project.
+
 ![Screenshot](https://eliys-final-project.s3.us-east-1.amazonaws.com/Screenshot+(131).png)

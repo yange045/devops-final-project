@@ -16,4 +16,7 @@
 - `docker compose up -d` - This starts all services within a docker-compose.yml.
 - `docker compose down` - This will stop and remove all services.
 
+## Summary
+- Containerization allows you to package your application and its dependencies together so it runs consistently across any environment.
+
 ![Screenshot](https://eliys-final-project.s3.us-east-1.amazonaws.com/Screenshot+(132).png)

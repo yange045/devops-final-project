@@ -13,4 +13,7 @@
 - Set permissions and access settings
 - Upload files to the bucket
 
+## Summary
+- Cloud infrastructure allows you to host and manage your applications on remote servers instead of your own hardware.
+
 ![Screenshot](https://eliys-final-project.s3.us-east-1.amazonaws.com/Screenshot+(133).png)
